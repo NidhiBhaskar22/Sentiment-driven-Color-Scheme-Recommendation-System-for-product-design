@@ -1,4 +1,4 @@
-#Sentiment-driven Color Scheme Recommendation System
+# Sentiment-driven Color Scheme Recommendation System
 This project uses natural language processing (NLP) and regression analysis to recommend color schemes for product design based on sentiment analysis. By exploring the connection between emotions and color, the system aims to enhance design efficiency and product appeal by 30%, supporting better decision-making in design and marketing.
 
 #### Features:
